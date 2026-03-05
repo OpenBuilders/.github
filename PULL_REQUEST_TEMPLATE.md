@@ -1,16 +1,29 @@
-# Code of Conduct
+## What does this PR do?
 
-## Core Ideas
+<!-- Brief description of the change -->
 
-Be respectful, be constructive, be collaborative. We're all here to build useful tools together.
+## Related Issue
 
-## Guidelines
+<!-- Link to the issue this PR addresses -->
+Closes #
 
-- **Be respectful** — treat everyone with kindness, even when you disagree. No personal attacks, no trolling.
-- **Be constructive** — when reviewing code or discussing ideas, focus on the work, not the person. Offer suggestions, not just criticism.
-- **Be collaborative** — ask questions, share knowledge, help others get started. A stronger community benefits everyone.
-- **Be professional** — keep discussions focused and on-topic. Don't share others' private information.
+## Changes Made
 
-## Enforcement
+<!-- List the key changes -->
+-
 
-If someone's behavior is making the community worse, reach out to the maintainers in [Telegram](https://t.me/tools_community) or via GitHub. We'll handle it fairly and quickly.
+## How to Test
+
+<!-- Steps to verify the change works -->
+1.
+
+## Screenshots
+
+<!-- If applicable, add screenshots or recordings -->
+
+## Checklist
+
+- [ ] I have tested my changes locally
+- [ ] My code follows the existing style of the project
+- [ ] I have updated documentation if needed
+- [ ] I have added tests if applicable
