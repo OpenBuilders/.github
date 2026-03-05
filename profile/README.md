@@ -2,7 +2,7 @@
 
 **The gateway to The Open Network**
 
-We build open source tools for Telegram communities: Features for chats and channels, community management, tools for crypto and collectibles within Telegram. All tools are built by independent developers. Follow our [announcements](t.me/builders) so you don't miss the next developer contest.
+We build open source tools for Telegram communities: Features for chats and channels, community management, tools for crypto and collectibles within Telegram. All tools are built by independent developers. Follow our [announcements](https://t.me/builders) so you don't miss the next developer contest.
 
 ![](../assets/pic.jpg)
 
@@ -29,5 +29,5 @@ We welcome contributions from developers of all levels. Our tools are built by i
 
 - [Telegram Chat](https://t.me/tools_community) — discuss, ask questions, collaborate
 - [Telegram Channel](https://t.me/builders) — updates and announcements
-- [Website](https://openbuilders.xyz)
-- [Twitter/X](https://x.com/open_builders)
+- [Website](https://tools.tg)
+- [Twitter/X](https://x.com/build_tg)
